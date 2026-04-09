@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This project utilizes antd and will need to be installed
+
+In the project directory, run the following command
+
+### `npm install antd`
+
 In the project directory, you can run:
 
 ### `npm start`
