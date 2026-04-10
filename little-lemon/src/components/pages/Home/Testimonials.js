@@ -10,29 +10,25 @@ const customers = [
     fullName: 'Brittany Anderson',
     image: customer1Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `The food was amazing and the atmosphere was impecible.`,
   },
   {
     fullName: 'Hernado Garcia',
     image: customer2Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Serivce was fast and staff was extremely kind.`,
   },
   {
     fullName: 'Camila Carmine',
     image: customer3Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Wuick service and friendly staff.`,
   },
   {
     fullName: 'Brandon Smith',
     image: customer4Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Celebrated my birthday and could not have asked for a more enjoyable night.`,
   },
 ];
 
